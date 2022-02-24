@@ -1,2 +1,2 @@
 # RuTAG
-Rural Technology Action Group->Designing of a cost-effective model for the vending cart for local use.
+Rural Technology Action Group->Designing a cost-effective model for the vending cart for local use.
